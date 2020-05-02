@@ -12,7 +12,6 @@ Assault Rifles:
 
 Handguns:
 - X16
-- 1911 @done
 - .357
 - M19
 - .50 GS 
@@ -33,22 +32,13 @@ Launchers:
 - RPG-7
 
 Marksman Rifles:
-- EBR-14 @done
-- MK2 Carbine @done
-- Kar98k @done
-- Crossbow @done
-- SKS @done
 
 Melee:
 - Riot Shield
 - Tactical Knife
 
 SMGs:
-- AUG @done
-- P90 @done
-- MP5 @done
-- Uzi @done
-- PP19 Bizon @in-progress
+- PP19 Bizon @started
 - MP7 
 - Striker 45
 
@@ -63,3 +53,14 @@ Sniper Rifles:
 - Dragunov
 - HDR
 - AX-50
+Archive:
+- 1911 @done @project(Handguns)
+- EBR-14 @done @project(Marksman Rifles)
+- MK2 Carbine @done @project(Marksman Rifles)
+- Kar98k @done @project(Marksman Rifles)
+- Crossbow @done @project(Marksman Rifles)
+- SKS @done @project(Marksman Rifles)
+- AUG @done @project(SMGs)
+- P90 @done @project(SMGs)
+- MP5 @done @project(SMGs)
+- Uzi @done @project(SMGs)
