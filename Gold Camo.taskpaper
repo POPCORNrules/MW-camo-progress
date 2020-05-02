@@ -1,65 +1,65 @@
 Assault Rifles:
-- Kilo 141
-- FAL
-- M4A1
-- FR 5.56
-- Oden
-- M13
-- FN Scar 17
-- AK-47
-- RAM-7
-- Grau 5.56
+    - Kilo 141
+    - FAL
+    - M4A1
+    - FR 5.56
+    - Oden
+    - M13
+    - FN Scar 17
+    - AK-47
+    - RAM-7
+    - Grau 5.56
 
 Handguns:
-- X16
-- 1911 @done
-- .357
-- M19
-- .50 GS 
-- Renetti
+    - X16
+    - 1911 @done
+    - .357
+    - M19
+    - .50 GS 
+    - Renetti
 
 LMGs:
-- PKM
-- SA87
-- M91
-- MG34
-- Holger-26
-- Bruen Mk9
+    - PKM
+    - SA87
+    - M91
+    - MG34
+    - Holger-26
+    - Bruen Mk9
 
 Launchers:
-- PILA
-- Strela-P
-- JOKR
-- RPG-7
+    - PILA
+    - Strela-P
+    - JOKR
+    - RPG-7
 
 Marksman Rifles:
-- EBR-14 @done
-- MK2 Carbine @done
-- Kar98k @done
-- Crossbow @done
-- SKS @done
+    - EBR-14 @done
+    - MK2 Carbine @done
+    - Kar98k @done
+    - Crossbow @done
+    - SKS @done
 
 Melee:
-- Riot Shield
-- Tactical Knife
+    - Riot Shield
+    - Tactical Knife
 
 SMGs:
-- AUG @done
-- P90 @done
-- MP5 @done
-- Uzi @done
-- PP19 Bizon @started
-- MP7 
-- Striker 45
+    - AUG @done
+    - P90 @done
+    - MP5 @done
+    - Uzi @done
+    - PP19 Bizon @started
+    - MP7 
+    - Striker 45
 
 Shotguns:
-- Model 680
-- R9-0 Shotgun
-- 725
-- Origin 12 Shotgun
-- VLK Rouge
+    - Model 680
+    - R9-0 Shotgun
+    - 725
+    - Origin 12 Shotgun
+    - VLK Rouge
 
 Sniper Rifles:
-- Dragunov
-- HDR
-- AX-50
+    - Dragunov
+    - HDR
+    - AX-50
