@@ -12,7 +12,7 @@ Assault Rifles:
 
 Handguns:
 - X16
-- 1911
+- 1911 @done(2020-05-02)
 - .357
 - M19
 - .50 GS
@@ -44,10 +44,10 @@ Melee:
 - Tactical Knife
 
 SMGs:
-- AUG
-- P90
-- MP5
-- Uzi
+- AUG @done(2020-05-02)
+- P90 @done(2020-05-02)
+- MP5 @done(2020-05-02)
+- Uzi @done(2020-05-02)
 - PP19 Bizon
 - MP7
 - Striker 45
