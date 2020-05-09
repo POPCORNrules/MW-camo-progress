@@ -28,7 +28,7 @@ Gold Camo:
         - Bruen Mk9
     
     Launchers:
-        - PILA
+        - PILA @done
         - Strela-P
         - JOKR
         - RPG-7
@@ -51,10 +51,10 @@ Gold Camo:
         - Uzi @done
         - PP19 Bizon @done
         - MP7 @done
-        - Striker 45 @started
+        - Striker 45 @done
     
     Shotguns:
-        - Model 680
+        - Model 680 @started
         - R9-0 Shotgun
         - 725
         - Origin 12 Shotgun
